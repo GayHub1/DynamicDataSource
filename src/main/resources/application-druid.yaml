@@ -11,7 +11,7 @@ spring:
         password: root
       # 从库数据源
       slave:
-        url: jdbc:mysql://127.0.0.1:33066/zhuoke?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=false&serverTimezone=Asia/Shanghai
+        url: jdbc:mysql://127.0.0.1:33065/xiaozhuo?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=false&serverTimezone=Asia/Shanghai
         username: root
         password: root
     # 初始连接数
